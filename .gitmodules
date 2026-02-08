@@ -1,0 +1,3 @@
+[submodule "yv6"]
+	path = yv6
+	url = git@github.com:platonoff-dev/yv6.git
